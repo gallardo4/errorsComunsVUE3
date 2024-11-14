@@ -33,3 +33,14 @@ a,
     padding: 0 2rem;
   }
 }
+
+ul {
+  padding: 0;
+  padding-right: 10px;
+  margin: 0;
+  margin-bottom: 10px;
+  list-style: none;
+}
+input {
+  max-width: 100%;
+}

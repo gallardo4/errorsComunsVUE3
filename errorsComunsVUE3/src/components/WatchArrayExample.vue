@@ -6,6 +6,7 @@ watch(numbers, () => console.log('new number added'))
 
 const randomNum = () => numbers.value.push(Math.random())
 </script>
+
 <template>
   <button @click="randomNum">Add Random Number</button>
 </template>

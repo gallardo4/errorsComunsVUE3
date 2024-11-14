@@ -22,16 +22,3 @@ function shuffleItems() {
   </ul>
   <button @click="shuffleItems">Shuffle</button>
 </template>
-
-<style>
-ul {
-  padding: 0;
-  padding-right: 10px;
-  margin: 0;
-  margin-bottom: 10px;
-  list-style: none;
-}
-input {
-  max-width: 100%;
-}
-</style>
